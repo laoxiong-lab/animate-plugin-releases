@@ -2,13 +2,13 @@
 
 面向 Adobe Animate 的中文动画辅助插件，提供元件操作、动画效果、光影处理和补间曲线工具。
 
-当前适用于 Windows 与 Adobe Animate 2023。
+当前适用于 Windows 与 Adobe Animate 2023（23.x）及 Adobe Animate 2024（24.x）。
 
 ## 发布状态
 
 本仓库用于发布插件安装包和使用说明，不发布插件业务源码。
 
-目前尚未提供公开下载的安装包。安装包发布后，可在本仓库的 Releases 页面获取。
+官方安装包可从本仓库的 [Releases 页面](https://github.com/laoxiong-lab/animate-plugin-releases/releases/latest) 获取。
 
 普通用户只需下载 EXE 安装包。
 
@@ -36,14 +36,14 @@
 
 ## 下载与安装
 
-安装包发布后，请从本仓库 Releases 页面下载以 `.exe` 结尾的官方安装包。
+请从本仓库 Releases 页面下载以 `.exe` 结尾的官方安装包。
 
 1. 保存正在编辑的工程，并正常退出 Adobe Animate。
 2. 双击 EXE 安装包，按提示完成安装。
-3. 重新打开 Adobe Animate 2023。
+3. 重新打开 Adobe Animate 2023 或 2024。
 4. 在“窗口 → 扩展 → 老熊AN插件”中打开面板。
 
-更新时，请先保存工程并正常退出 Animate，再运行新版 EXE 安装包。
+同一 Windows 账号下只需安装一次，AN 2023 与 AN 2024 共用同一份插件。更新时，请先保存工程并正常退出所有 Animate，再运行新版 EXE 安装包。
 
 ## 使用说明
 
