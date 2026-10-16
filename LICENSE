@@ -1,0 +1,256 @@
+老熊AN插件自定义使用许可证
+LaoXiong Animate Plugin Custom Use License
+
+Copyright (c) 2026 老熊.
+保留所有权利。All rights reserved.
+
+中文条款
+
+一、适用范围
+
+本许可证适用于老熊有权按本许可证授权，且明确随附或引用
+本许可证的软件、代码及原创资源。第三方内容除外。
+
+本许可证不要求版权人公开或提供本插件的自有源码。
+
+本许可证是自定义使用许可证，不是 GPL、MIT、Apache 或其他
+标准开源许可证。
+
+
+二、允许的个人使用及另行授权
+
+仅允许自然人以个人身份免费安装和使用官方发布的插件。
+
+企业、工作室、机构及其他组织使用，代表上述组织使用，
+以及其他非个人使用场景，均须事先取得版权人的书面授权。
+个人下载安装不代表所在企业或组织也获得了使用授权。
+
+在符合上述个人使用条件的范围内，允许使用本插件制作、
+交付或销售商业动画作品。作品具有商业用途，本身不构成
+对这项个人使用许可的违反。
+
+本插件的许可证不会仅因作品使用了本插件而适用于该作品，
+也不要求用户因此公开作品源文件或向老熊转让作品权利。
+作品、素材、字体及其他第三方内容的权利仍须另行遵守。
+
+对于合法取得的本项目源码，允许查看，并为个人非商业学习
+目的进行必要的本地复制和研究。
+
+上述免费许可不包含第三条所列行为。
+
+
+三、使用限制
+
+未经版权人事先书面授权，不得：
+
+1. 将本插件、其代码或修改版本作为组成部分，集成到其他
+   商业软件、平台、SDK，或向第三方提供插件功能的软件服务中；
+
+2. 转售本插件，或将本插件及其修改版本改名售卖、打包出售
+   或收费分发。
+
+在 Adobe Animate 中正常使用官方插件制作、交付或销售动画
+作品，不属于本条所称的商业集成。但使用者仍须符合第二条
+规定的个人使用条件，或已经取得相应书面授权。
+
+除明确授予的权限及法律另有规定外，其他权利均予保留。
+
+
+四、软件图标与品牌
+
+在老熊依法享有相关权利的范围内，本插件原创图标及品牌
+资源的相关权利由老熊保留。第三方资源除外。
+
+在获得插件使用许可的范围内，正常安装、使用官方插件及
+展示官方插件界面，不需要另行取得图标授权。
+
+未经另行授权，不得将图标复制、修改或用于其他产品，
+法律另有规定的除外。
+
+不得冒充官方版本，或虚假暗示获得老熊的认可、
+合作或担保。真实、准确的项目来源说明不受本条限制。
+
+
+五、免责声明
+
+本插件按“现状”提供，不作任何明示或默示的保证，包括
+适销性、特定用途适用性、准确性及不侵犯第三方权利的保证。
+
+动画、补间、滤镜及其他自动化处理结果可能存在错误或差异。
+工程内容、元件结构、轴点设置、帧率、软件版本及渲染方式
+等因素可能影响实际效果。
+
+插件中的效果示意用于辅助理解功能及参数，不等同于当前
+工程的实际预览，也不保证与最终导出结果完全一致。
+
+用户应自行确认工程、素材、字体及其他内容的使用权限，
+对重要工程和数据做好备份，并在目标环境中检查处理结果。
+
+使用本插件不授予任何第三方版权、商标或其他权利。
+
+在适用法律允许的最大范围内，作者和版权人不对因使用或
+无法使用本插件而产生的索赔、数据丢失、业务中断或其他
+损失承担责任。
+
+本条不排除或限制法律规定不得排除或限制的责任。
+
+
+六、第三方内容与既有授权
+
+第三方代码、依赖及资源分别适用各自的许可证。
+本许可证不替代第三方许可，也不限制第三方许可证
+赋予接收者的权利。
+
+Adobe、Adobe Animate 及其他第三方名称和商标归各自
+权利人所有。本插件为第三方插件，并非 Adobe 官方产品。
+除另有明确说明外，不应据此推定获得第三方的认可、
+合作或担保。
+
+本许可证不撤回或追溯限制此前版本已经有效授予的权利。
+此前版本仍依其随附许可证及适用法律处理。
+
+
+七、语言
+
+本文件包含中文与英文两个版本。
+如存在歧义或不一致，以中文版本为准，
+但不得据此排除适用法律的强制性规定。
+
+
+English Terms
+
+1. Scope
+
+This license applies to software, code, and original assets that
+老熊 is entitled to license under these terms and that expressly
+include or reference this license. Third-party materials are excluded.
+
+This license does not require the copyright holder to disclose
+or provide the plugin's proprietary source code.
+
+This is a custom use license, not the GPL, MIT, Apache, or another
+standard open-source license.
+
+
+2. Permitted Personal Use and Separate Authorization
+
+Only natural persons acting in their individual capacity may
+install and use official releases of the plugin free of charge.
+
+Use by businesses, studios, institutions, or other organizations,
+use on behalf of such organizations, and any other non-personal use
+require prior written authorization from the copyright holder.
+An individual's download or installation does not authorize use
+by their employer or organization.
+
+Within the scope of the personal-use permission above, individuals
+may use the plugin to create, deliver, or sell commercial animation
+works. The commercial purpose of a resulting work does not, by itself,
+violate this personal-use permission.
+
+A work does not become subject to this plugin license merely because
+the plugin was used to create it. Users are not required on that basis
+to disclose the work's source files or transfer rights in the work
+to 老熊. Rights in works, materials, fonts, and other third-party
+content remain subject to their respective terms.
+
+Lawfully obtained project source code may be viewed and locally
+copied as necessary for personal, noncommercial study and research.
+
+The free permission above does not include the activities in Section 3.
+
+
+3. Restrictions
+
+Without prior written authorization from the copyright holder,
+you may not:
+
+(a) integrate the plugin, its code, or modified versions as a component
+    of other commercial software, platforms, SDKs, or software services
+    that provide the plugin's functionality to third parties; or
+
+(b) resell the plugin, sell renamed versions, bundle the plugin or
+    modified versions for sale, or distribute them for a fee.
+
+Normal use of official releases within Adobe Animate to create,
+deliver, or sell animation works is not commercial integration
+under this section. However, the user must still qualify for the
+personal-use permission in Section 2 or have obtained the relevant
+written authorization.
+
+Except as expressly permitted or otherwise provided by law,
+all other rights are reserved.
+
+
+4. Icons and Branding
+
+To the extent that 老熊 lawfully holds the relevant rights,
+rights in the plugin's original icons and branding assets are
+reserved by 老熊. Third-party assets are excluded.
+
+Within the scope of an authorized use of the plugin, installing
+and using official releases and displaying their user interface
+do not require separate icon authorization.
+
+Except as otherwise provided by law, copying, modifying, or using
+the icons in other products requires separate authorization.
+
+You may not impersonate an official release or falsely imply
+endorsement, affiliation, or sponsorship by 老熊.
+Truthful and accurate statements of project origin are permitted.
+
+
+5. Disclaimer
+
+The plugin is provided "AS IS," without any express or implied
+warranty, including warranties of merchantability, fitness for a
+particular purpose, accuracy, or noninfringement.
+
+Animation, tweening, filters, and other automated processing results
+may contain errors or differences. Project content, symbol structure,
+pivot settings, frame rates, software versions, rendering methods,
+and other factors may affect actual results.
+
+Effect demonstrations within the plugin are provided to help users
+understand functions and parameters. They are not previews of the
+current project and are not guaranteed to match final exported output.
+
+Users are responsible for obtaining the necessary rights to their
+projects, materials, fonts, and other content, maintaining backups
+of important projects and data, and checking results in the target
+environment.
+
+Use of the plugin does not grant any third-party copyright,
+trademark, or other rights.
+
+To the maximum extent permitted by applicable law, the authors
+and copyright holders shall not be liable for claims, data loss,
+business interruption, or other damages arising from the use of,
+or inability to use, the plugin.
+
+Nothing in this section excludes or limits liability that cannot
+lawfully be excluded or limited.
+
+
+6. Third-Party Materials and Prior Grants
+
+Third-party code, dependencies, and assets remain governed by
+their respective licenses. This license does not replace those
+licenses or restrict the rights they grant to recipients.
+
+Adobe, Adobe Animate, and other third-party names and trademarks
+belong to their respective owners. This is a third-party plugin,
+not an official Adobe product. Unless expressly stated otherwise,
+no third-party endorsement, affiliation, or sponsorship should
+be inferred.
+
+This license does not revoke or retroactively restrict rights
+validly granted for earlier versions. Earlier versions remain
+subject to their accompanying licenses and applicable law.
+
+
+7. Language
+
+This document is provided in Chinese and English.
+In case of ambiguity or inconsistency, the Chinese version
+prevails, subject to mandatory applicable law.
